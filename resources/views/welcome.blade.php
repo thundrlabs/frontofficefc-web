@@ -40,11 +40,6 @@
                     <div class="mt-8">
                         <livewire:waitlist-form />
                     </div>
-
-                    <p class="mt-5 text-sm text-zinc-500">
-                        Questions? Reach us at
-                        <a href="mailto:info@frontofficefc.com" class="font-medium text-pitch-700 underline-offset-4 hover:underline">info@frontofficefc.com</a>
-                    </p>
                 </div>
 
                 <div class="relative">
